@@ -1,5 +1,3 @@
-👇 These are expandable dialogues!
-
-*Emoji
-*Ordered Lists
-*Unordered Lists
+- item1
+- item2
+- item3
