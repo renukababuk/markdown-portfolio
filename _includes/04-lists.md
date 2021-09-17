@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+👇 These are expandable dialogues!
+
+Emoji
+Ordered Lists
+Unordered Lists
